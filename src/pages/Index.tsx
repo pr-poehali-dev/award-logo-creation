@@ -25,6 +25,27 @@ const logos = [
     title: 'Контрастный стиль',
     description: 'Чёрно-золотая композиция для люксового бренда',
     colors: ['#000000', '#D4AF37']
+  },
+  {
+    id: 4,
+    url: 'https://cdn.poehali.dev/projects/e2e29eb6-398c-466c-b295-07873ad38ece/files/96b4c0df-404c-4919-a165-370f5ed07b25.jpg',
+    title: 'Звезда внутри',
+    description: 'Звезда размещена внутри чаши трофея',
+    colors: ['#D4AF37', '#1A1F2C']
+  },
+  {
+    id: 5,
+    url: 'https://cdn.poehali.dev/projects/e2e29eb6-398c-466c-b295-07873ad38ece/files/7bdb8911-9d12-4a01-a61d-e73588308e90.jpg',
+    title: 'Звезда-основание',
+    description: 'Трофей возвышается из центра звезды',
+    colors: ['#D4AF37', '#FFFFFF']
+  },
+  {
+    id: 6,
+    url: 'https://cdn.poehali.dev/projects/e2e29eb6-398c-466c-b295-07873ad38ece/files/0948ede5-9881-41d8-b0dd-a615cdbcb2fb.jpg',
+    title: 'Слияние форм',
+    description: 'Трофей и звезда объединены в единую композицию',
+    colors: ['#000000', '#D4AF37']
   }
 ];
 
