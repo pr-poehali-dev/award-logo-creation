@@ -46,6 +46,27 @@ const logos = [
     title: 'Слияние форм',
     description: 'Трофей и звезда объединены в единую композицию',
     colors: ['#000000', '#D4AF37']
+  },
+  {
+    id: 7,
+    url: 'https://cdn.poehali.dev/projects/e2e29eb6-398c-466c-b295-07873ad38ece/files/34527e6f-fdf7-457b-aaf0-648bdb6c9d2f.jpg',
+    title: 'Плавный переход',
+    description: 'Лучи звезды перетекают в ручки трофея',
+    colors: ['#D4AF37', '#FFFFFF']
+  },
+  {
+    id: 8,
+    url: 'https://cdn.poehali.dev/projects/e2e29eb6-398c-466c-b295-07873ad38ece/files/09e30e54-cc11-45f1-90c5-d1504f765338.jpg',
+    title: 'Морфинг',
+    description: 'Звезда трансформируется в трофей одной линией',
+    colors: ['#C0C0C0', '#1A1F2C']
+  },
+  {
+    id: 9,
+    url: 'https://cdn.poehali.dev/projects/e2e29eb6-398c-466c-b295-07873ad38ece/files/300a5493-1ddc-42ad-9f06-058e41b6ab92.jpg',
+    title: 'Негативное пространство',
+    description: 'Звезда и трофей через игру света и тени',
+    colors: ['#000000', '#D4AF37']
   }
 ];
 
